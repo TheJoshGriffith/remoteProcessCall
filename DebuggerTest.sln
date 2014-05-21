@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DebuggerTest", "DebuggerTest\DebuggerTest.vcxproj", "{C4F8FBCD-C3DD-4EB7-A99B-13C094D8E2DA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Injectable", "Injectable\Injectable.vcxproj", "{387B8AAE-29CB-4046-8DBF-EF59B8CBCDB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F8FBCD-C3DD-4EB7-A99B-13C094D8E2DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4F8FBCD-C3DD-4EB7-A99B-13C094D8E2DA}.Debug|Win32.Build.0 = Debug|Win32
+		{C4F8FBCD-C3DD-4EB7-A99B-13C094D8E2DA}.Release|Win32.ActiveCfg = Release|Win32
+		{C4F8FBCD-C3DD-4EB7-A99B-13C094D8E2DA}.Release|Win32.Build.0 = Release|Win32
+		{387B8AAE-29CB-4046-8DBF-EF59B8CBCDB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{387B8AAE-29CB-4046-8DBF-EF59B8CBCDB5}.Debug|Win32.Build.0 = Debug|Win32
+		{387B8AAE-29CB-4046-8DBF-EF59B8CBCDB5}.Release|Win32.ActiveCfg = Release|Win32
+		{387B8AAE-29CB-4046-8DBF-EF59B8CBCDB5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
